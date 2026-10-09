@@ -1,6 +1,7 @@
 # Git and Docker Starter Application
 
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
+The repository has been updated to reflect the changes throughout the practice.
 
 ## Application
 
